@@ -27,3 +27,4 @@ if choice1 == "left":
 else:
     print("You fell into a hole. Game Over.")
     exit()
+
